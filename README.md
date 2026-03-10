@@ -1,2 +1,14 @@
 # Python-Expense-Tracker
-A simple command-line expense tracker built using Python.  It allows users to add expenses, view all expenses, and calculate total spending.
+
+This is a simple expense tracker built using Python.
+
+Features:
+- Add expenses
+- View all expenses
+- Calculate total spending
+
+Concepts Used:
+- Python Lists
+- Dictionaries
+- Loops
+- Conditional Statements
